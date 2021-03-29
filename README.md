@@ -3,7 +3,7 @@ This Full-Stack Application called the Uzi Tracker allows users to login and be 
  
 &emsp;
 ![Screenshot](uzi.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](website link)
+
 ## How Its Made 
 **Languages used:** Html, CSS, Javascript, Node.js , MongoDB , Express
 # What I Learned
